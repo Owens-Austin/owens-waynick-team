@@ -21,7 +21,7 @@ public class ZeldaPokemon {
         
        Player playerOne = new Player(); 
        
-       playerOne.setName("Fred Flintstone");
+       playerOne.setName("Fred Flintstone"); //nice choice of name
        playerOne.setStats(7.00);
        
        String playerInfo = playerOne.toString();

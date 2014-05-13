@@ -1,8 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+// Goblin Base statistics to code later
+// HP:        10
+// Def:        0
+// Speed:      3
+// Attack:     2
+// EXP Reward: 5
+// Goblins will be smaller weaker monsters that will usually have the first attack
+
 
 package byui.cit260.zeldaPokemon.model;
 
